@@ -253,15 +253,6 @@ Integration with loan origination systems
 
 Mobile-responsive dashboard
 
-📜 License
-This project is available for educational and research purposes.
-
-👤 Author
-College Student | Machine Learning Enthusiast
-
-Specialized in Credit Risk Analytics and ML Model Deployment
-
-Previous projects: Cervical Cancer Detection, TerraTrack Deforestation System
 
 🙏 Acknowledgments
 Dataset inspired by Codebasics ML Course​
